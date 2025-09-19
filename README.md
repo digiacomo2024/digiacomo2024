@@ -11,7 +11,7 @@
 - 🎓 Currently finished a **Data Science & AI course at Le Wagon**  
 - 💡 Interested in **machine learning, data analysis, backend & creative problem solving**  
 - 🌍 Based in **Germany**, open to remote opportunities  
-- ✨ Building my portfolio: [giovanna-portfolio.com](https://giovanna-portfolio.com)  
+- ✨ Building my portfolio: [[giovanna-portfolio.com]([https://giovanna-portfolio.com](https://digiacomo2024.github.io/portifolio/))](https://digiacomo2024.github.io/portifolio/)  
 
 ---
 
@@ -38,10 +38,10 @@
 ## 🌐 Let’s Connect  
 
 <p align="center">
-  <a href="https://giovanna-portfolio.com" target="_blank">
+  <a href="https://digiacomo2024.github.io/portifolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/giovanna-digiacomo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
